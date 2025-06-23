@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Shubham Bhatt
 
 I'm a passionate self-learner diving into **React** and modern web development.  

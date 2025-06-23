@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Shubham Bhatt
 
-- 🔭 I’m currently learning React and web dev
-- 🌱 I know HTML, CSS, JS, Git, and GitHub
-- 📫 Reach me:
--   [LinkedIn](https://www.linkedin.com/in/shubh-bhatt/)
--   [X](https://x.com/sudo_pacman_)
+- 🔭 I’m currently learning React and web development
+- 🌱 I know HTML, CSS, JavaScript, Git, GitHub, and TailwindCSS
+- 📫 Connect with me:
+  - [LinkedIn](https://www.linkedin.com/in/shubh-bhatt/)
+  - [Twitter / X](https://x.com/sudo_pacman_)
 

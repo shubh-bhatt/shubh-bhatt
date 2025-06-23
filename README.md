@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Shubham Bhatt
+
+- 🔭 I’m currently learning React and web dev
+- 🌱 I know HTML, CSS, JS, Git, and GitHub
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile)
+

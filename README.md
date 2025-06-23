@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently learning React and web dev
 - 🌱 I know HTML, CSS, JS, Git, and GitHub
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 Reach me:
+-   [LinkedIn](https://www.linkedin.com/in/shubh-bhatt/)
+-   [X](https://x.com/sudo_pacman_)
 

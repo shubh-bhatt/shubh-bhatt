@@ -23,7 +23,6 @@ I enjoy building clean, responsive user interfaces and exploring the power of Ja
 
 ## 📈 GitHub Stats
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubh-bhatt&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shubh-bhatt&theme=radical)
 
 ---

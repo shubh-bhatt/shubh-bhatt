@@ -10,7 +10,7 @@ I enjoy building clean, responsive user interfaces and exploring the power of Ja
 - HTML, CSS, JavaScript
 - Git & GitHub
 - TailwindCSS
-- React (learning phase)
+- React
 
 ---
 

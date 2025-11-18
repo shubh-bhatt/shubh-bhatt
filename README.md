@@ -1,16 +1,31 @@
 # 👋 Hi, I'm Shubham Bhatt
 
-I'm a passionate self-learner diving into **React** and modern web development.  
-I enjoy building clean, responsive user interfaces and exploring the power of JavaScript.
+I'm a Software Developer who enjoys building efficient backend systems and clean, responsive user interfaces.
+I love exploring how things work behind the scenes — servers, databases, and system internals.
 
 ---
 
 ## 💻 Tech Stack
 
-- HTML, CSS, JavaScript
-- Git & GitHub
-- TailwindCSS
-- React
+### **Frontend**
+- HTML • CSS
+- JavaScript  
+- React.js  
+- TailwindCSS  
+
+### **Backend & Systems**
+- Node.js
+- Express.js
+- Fastify  
+
+### **Databases**
+- MongoDB  
+- MySQL  
+- Redis (Learning)
+
+### **Tools & Others**
+- Git & GitHub  
+- Linux
 
 ---
 

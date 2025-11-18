@@ -20,8 +20,7 @@ I love exploring how things work behind the scenes — servers, databases, and s
 
 ### **Databases**
 - MongoDB  
-- MySQL  
-- Redis (Learning)
+- MySQL
 
 ### **Tools & Others**
 - Git & GitHub  

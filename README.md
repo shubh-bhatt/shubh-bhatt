@@ -17,3 +17,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/shubh-bhatt/)
 - [Twitter / X](https://x.com/sudo_pacman_)
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/03f80350-f8a7-4093-b1ed-264f2be3bd3a/thumbnail" >
+</p>
